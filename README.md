@@ -24,4 +24,4 @@ A Database Management System project for conducting online examinations.
 - Result
 
 ## Author
-Ashu
+Ashutosh kumar
