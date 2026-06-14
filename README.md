@@ -25,3 +25,17 @@ A Database Management System project for conducting online examinations.
 
 ## Author
 Ashutosh kumar
+
+## Screenshots
+
+### Tables
+![Tables](tables.png)
+
+### Student Data
+![Student](student.png)
+
+### Question Data
+![Question](question.png)
+
+### Result
+![Result](result.png)
